@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1523771750 source:d:\3-1\compiler sessional\compiler\symbolinfo.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<vector>
+	"SymbolInfo.h"
+
+1523708189 d:\3-1\compiler sessional\compiler\symbolinfo.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<vector>
+
+1523809586 source:d:\3-1\compiler sessional\compiler\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"SymbolInfo.h"
+	"ScopeTable.h"
+	"SymbolTable.h"
+
+1523795112 d:\3-1\compiler sessional\compiler\scopetable.h
+	"SymbolInfo.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<map>
+	<string>
+	<vector>
+
+1523811002 source:d:\3-1\compiler sessional\compiler\scopetable.cpp
+	"ScopeTable.h"
+	"SymbolInfo.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+
+1523808967 source:d:\3-1\compiler sessional\compiler\symboltable.cpp
+	"SymbolTable.h"
+	"SymbolInfo.h"
+	"ScopeTable.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<map>
+	<string>
+	<vector>
+
+1523787844 d:\3-1\compiler sessional\compiler\symboltable.h
+	"SymbolInfo.h"
+	"ScopeTable.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<map>
+	<string>
+	<vector>
+
